@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598161642983",
+    "project_id": "flutterfcmsimple",
+    "storage_bucket": "flutterfcmsimple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598161642983:android:2f66fec68d9394aa6c1942",
+        "android_client_info": {
+          "package_name": "com.example.flutterside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWu4BuhwdPFqsHFXW5u_zhN4AH2Z6Mixk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
